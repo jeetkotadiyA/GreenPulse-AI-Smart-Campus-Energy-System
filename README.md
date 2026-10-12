@@ -122,8 +122,11 @@ Total Estimated Cost: ₹75,000
 
 ## 👩‍💻 Team Details
 
-Team Name: Tech Innovators  
-Team Leader: Srija Pandraju  
+Team Name: Tech fury  
+Team Members: jeet kotadiya
+            : sahil jain
+            : Vedant jain
+            : kislay agarwal
 
 ---
 
@@ -131,5 +134,5 @@ Team Leader: Srija Pandraju
 
 GitHub Repository: (Add your link here)  
 Demo Video: (Add your YouTube link here)
-
+Demo PPT: (add your ppt )
 ---
